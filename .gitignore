@@ -1,2 +1,7 @@
-# Removing the Pycharm .idea folder
+# Removing folders
 .idea/
+__pycache__/
+.ipynb_checkpoints/
+
+# removing .DS_Store
+.DS_Store
